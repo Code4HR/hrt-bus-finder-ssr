@@ -15,7 +15,7 @@
     "trailsjs"
   ],
   "dependencies": {
-    "trailpack-hapi": "^2.2.0",
+    "trailpack-hapi": "^3.1.1",
     "trailpack-repl": "v2-latest",
     "trailpack-router": "v2-latest",
     "trails": "v2-latest",

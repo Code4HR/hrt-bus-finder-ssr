@@ -23,7 +23,7 @@
     "winston": "^2.3"
   },
   "devDependencies": {
-    "eslint": "^2.11",
+    "eslint": "^6.6",
     "eslint-config-trails": "^2",
     "mocha": "^2.5",
     "supertest": "^1.2"
